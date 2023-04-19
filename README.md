@@ -239,7 +239,7 @@ Users can click the "Switch" button to change to dark or light mode, with prefer
 
 <a href=#copyright>![Copyright](https://res.cloudinary.com/dn1e07eul/image/upload/v1659391383/Readme%20Headers/inter-copyright_ax53yz.png)</a>
 
-- © 2023 <a href="********">Power Words</a>. All Rights Reserved.
+- © 2023 <a href="https://www.power-words.net/">Power Words</a>. All Rights Reserved.
 
 - Visual assets of this project and README are copyright of © <a href="https://www.emmanuel-jose.com/">Emmanuel Jose</a>. All Rights Reserved.
 
