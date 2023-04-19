@@ -18,7 +18,7 @@
 
 <br>
 
-<a href="https://www.power-words.net/">![Power Words](Assets/preview-040-power-words.png)</a>
+<a href="https://www.powerwords.work/">![Power Words](Assets/preview-040-power-words.png)</a>
 
 #
 
@@ -50,9 +50,9 @@
 
 - However, it was challenging to go through all of them and recall which site had which words or categories.
 
-- With the help of [ChatGPT](https://chat.openai.com/), I created **[Power Words](https://www.power-words.net/)** to consolidate these resources, and to offer a tool for anyone navigating the job hunt and looking to enhance their resume.
+- With the help of [ChatGPT](https://chat.openai.com/), I created **[Power Words](https://www.powerwords.work/)** to consolidate these resources, and to offer a tool for anyone navigating the job hunt and looking to enhance their resume.
 
-- Using an accordion structure, **[Power Words](https://www.power-words.net/)** offers comprehensive word options categorized into a variety of skills, synonyms, experiences, and industries.
+- Using an accordion structure, **[Power Words](https://www.powerwords.work/)** offers comprehensive word options categorized into a variety of skills, synonyms, experiences, and industries.
 
 <br>
 
@@ -84,16 +84,16 @@ open index.html
 
 <p id="live-site"><p>
 
-<a href="https://www.power-words.net/">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1676241883/Readme%20Headers/inter-live-site_ngju4h.png)</a>
+<a href="https://www.powerwords.work/">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1676241883/Readme%20Headers/inter-live-site_ngju4h.png)</a>
 
-<a href="https://www.power-words.net/">![Live Site](Assets/040-live-site.png)</a>
-<sub><a href="https://www.power-words.net/">Click the above image or the following GIFs to visit the Power Words website.<a/></sub>
+<a href="https://www.powerwords.work/">![Live Site](Assets/040-live-site.png)</a>
+<sub><a href="https://www.powerwords.work/">Click the above image or the following GIFs to visit the Power Words website.<a/></sub>
 
 <br>
 
-- **[Power Words](https://www.power-words.net/)** is responsive and can be viewed on mobile devices or computers.
+- **[Power Words](https://www.powerwords.work/)** is responsive and can be viewed on mobile devices or computers.
 
-- **[Power Words](https://www.power-words.net/)** is keyboard-navigable and is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+- **[Power Words](https://www.powerwords.work/)** is keyboard-navigable and is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
 
 - There are 1,100+ unique power words across 62 categories of skills, synonyms, experiences, and industries.
 
@@ -109,7 +109,7 @@ The categories can be individually opened or closed with a click or press of the
 
 <br>
 
-<a href="https://www.power-words.net/">![Live Site](Assets/040-power-words-1.gif)</a>
+<a href="https://www.powerwords.work/">![Live Site](Assets/040-power-words-1.gif)</a>
 
 <br>
 
@@ -125,7 +125,7 @@ Words in each category (except the category of words to avoid) can be clicked an
 
 <br>
 
-<a href="https://www.power-words.net/">![Live Site](Assets/040-power-words-2.gif)</a>
+<a href="https://www.powerwords.work/">![Live Site](Assets/040-power-words-2.gif)</a>
 
 <br>
 
@@ -141,7 +141,7 @@ Pressing the "Collapse" button in the header closes any and all open categories 
 
 <br>
 
-<a href="https://www.power-words.net/">![Live Site](Assets/040-power-words-3.gif)</a>
+<a href="https://www.powerwords.work/">![Live Site](Assets/040-power-words-3.gif)</a>
 
 <br>
 
@@ -157,7 +157,7 @@ Users can view additional resume writing resources by clicking the "About" butto
 
 <br>
 
-<a href="https://www.power-words.net/">![Live Site](Assets/040-power-words-4.gif)</a>
+<a href="https://www.powerwords.work/">![Live Site](Assets/040-power-words-4.gif)</a>
 
 <br>
 
@@ -173,7 +173,7 @@ Users can click the "Switch" button to change to dark or light mode, with prefer
 
 <br>
 
-<a href="https://www.power-words.net/">![Live Site](Assets/040-power-words-5.gif)</a>
+<a href="https://www.powerwords.work/">![Live Site](Assets/040-power-words-5.gif)</a>
 
 </details>
 
@@ -185,7 +185,7 @@ Users can click the "Switch" button to change to dark or light mode, with prefer
 
 <a href=#improvement>![Improvement](https://res.cloudinary.com/dn1e07eul/image/upload/v1659393807/Readme%20Headers/inter-improvement_f38dsq.png)</a>
 
-**[Power Words](https://www.power-words.net/)** can be improved in the following ways:
+**[Power Words](https://www.powerwords.work/)** can be improved in the following ways:
 
 - Further refinement and editing of categories and words.
 
@@ -239,7 +239,7 @@ Users can click the "Switch" button to change to dark or light mode, with prefer
 
 <a href=#copyright>![Copyright](https://res.cloudinary.com/dn1e07eul/image/upload/v1659391383/Readme%20Headers/inter-copyright_ax53yz.png)</a>
 
-- © 2023 <a href="https://www.power-words.net/">Power Words</a>. All Rights Reserved.
+- © 2023 <a href="https://www.powerwords.work/">Power Words</a>. All Rights Reserved.
 
 - Visual assets of this project and README are copyright of © <a href="https://www.emmanuel-jose.com/">Emmanuel Jose</a>. All Rights Reserved.
 
